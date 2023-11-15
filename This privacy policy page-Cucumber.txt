@@ -27,7 +27,12 @@ To gather analysis or valuable information to improve our App
 To monitor the usage of our App
 To detect, prevent, and address technical issues
 
+Third-Party Services
+
+Our app integrates with third-party services, such as Google Maps, to enhance your experience. Please note that the use of these services is subject to the terms and privacy policies of the respective third parties. We encourage you to review the privacy policies of these services for more information on how they handle your data.
+
 Third-Party Sharing
+
 
 We want to assure you that we do not share your personal information with third parties. Your data, including but not limited to email addresses, contact details, and any other provided information, is treated with the utmost confidentiality. We are committed to protecting your privacy and ensuring the security of your information.
 
